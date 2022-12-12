@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>Filename</key>
+		<string>icon-mood-poo</string>
+		<key>Color</key>
+		<string>icon-mood-poo-color</string>
+		<key>Label</key>
+		<string>POO</string>
+		<key>Info</key>
+		<string>Went Poo</string>
+		<key>size</key>
+		<string>32</string>
+		<key>coordinateX</key>
+		<string>5</string>
+		<key>coordinateY</key>
+		<string>140</string>
+	</dict>
+	<dict>
+		<key>Filename</key>
+		<string>icon-mood-pee</string>
+		<key>Color</key>
+		<string>icon-mood-pee-color</string>
+		<key>Label</key>
+		<string>PEE</string>
+		<key>Info</key>
+		<string>Went pee</string>
+		<key>size</key>
+		<string>32</string>
+		<key>coordinateX</key>
+		<string>45</string>
+		<key>coordinateY</key>
+		<string>140</string>
+	</dict>
+	<dict>
+		<key>Filename</key>
+		<string>icon-mood-treat</string>
+		<key>Color</key>
+		<string>icon-mood-treat-color</string>
+		<key>Label</key>
+		<string>TREAT</string>
+		<key>Info</key>
+		<string>Gave treat</string>
+		<key>size</key>
+		<string>32</string>
+		<key>coordinateX</key>
+		<string>325</string>
+		<key>coordinateY</key>
+		<string>140</string>
+	</dict>
+	<dict>
+		<key>Filename</key>
+		<string>icon-mood-water</string>
+		<key>Color</key>
+		<string>icon-mood-water-color</string>
+		<key>Label</key>
+		<string>WATER</string>
+		<key>Info</key>
+		<string>Drank water</string>
+		<key>size</key>
+		<string>32</string>
+		<key>coordinateX</key>
+		<string>125</string>
+		<key>coordinateY</key>
+		<string>140</string>
+	</dict>
+	<dict>
+		<key>Filename</key>
+		<string>icon-mood-bath</string>
+		<key>Color</key>
+		<string>icon-mood-bath-color</string>
+		<key>Label</key>
+		<string>TOWEL</string>
+		<key>Info</key>
+		<string>Dried with towel</string>
+		<key>size</key>
+		<string>32</string>
+		<key>coordinateX</key>
+		<string>85</string>
+		<key>coordinateY</key>
+		<string>140</string>
+	</dict>
+	<dict>
+		<key>Filename</key>
+		<string>icon-mood-shot</string>
+		<key>Color</key>
+		<string>icon-mood-shot-color</string>
+		<key>Label</key>
+		<string>INJECTION</string>
+		<key>Info</key>
+		<string>Gave injection at: </string>
+		<key>size</key>
+		<string>32</string>
+		<key>coordinateX</key>
+		<string>165</string>
+		<key>coordinateY</key>
+		<string>140</string>
+	</dict>
+	<dict>
+		<key>Filename</key>
+		<string>icon-mood-meds</string>
+		<key>Color</key>
+		<string>icon-mood-meds-color</string>
+		<key>Label</key>
+		<string>MEDICATION</string>
+		<key>Info</key>
+		<string>Gave medication at: </string>
+		<key>size</key>
+		<string>32</string>
+		<key>coordinateX</key>
+		<string>205</string>
+		<key>coordinateY</key>
+		<string>140</string>
+	</dict>
+	<dict>
+		<key>Filename</key>
+		<string>icon-mood-food</string>
+		<key>Color</key>
+		<string>icon-mood-food-color</string>
+		<key>Label</key>
+		<string>FEED</string>
+		<key>Info</key>
+		<string>Gave food</string>
+		<key>size</key>
+		<string>32</string>
+		<key>coordinateX</key>
+		<string>245</string>
+		<key>coordinateY</key>
+		<string>140</string>
+	</dict>
+	<dict>
+		<key>Filename</key>
+		<string>icon-mood-play</string>
+		<key>Color</key>
+		<string>icon-mood-play-color</string>
+		<key>Label</key>
+		<string>PLAY</string>
+		<key>Info</key>
+		<string>Was in playful mood</string>
+		<key>size</key>
+		<string>32</string>
+		<key>coordinateX</key>
+		<string>285</string>
+		<key>coordinateY</key>
+		<string>140</string>
+	</dict>
+</array>
+</plist>
